@@ -1,0 +1,12 @@
+Pics
+
+yolo task=detect mode=predict model="E:\new car project\MergedDataset2\runs\detect\train5\weights\best.pt" source="C:\Users\gunav\Downloads\bila.jpg" project="E:\new car project\MergedDataset2\Output" name="test"
+
+
+
+video
+
+yolo task=detect mode=predict model="E:\new car project\MergedDataset2\runs\detect\train5\weights\best.pt" source="C:\Users\gunav\Downloads\video.mp4" project="E:\new car project\MergedDataset2\Output" name="test"
+
+
+

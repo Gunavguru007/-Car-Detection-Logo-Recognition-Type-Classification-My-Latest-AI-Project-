@@ -20,4 +20,3 @@ This project uses deep learning to detect cars, recognize their logos, and class
    ```bash
    git clone [Your Repo Link]
    cd [Repo Name]
-
